@@ -11,3 +11,7 @@ Tools used in this project includes:
 * CSS
 * D3.js
 
+
+Example output of search result:
+
+![example_output.png](static/images/example_output.png)
